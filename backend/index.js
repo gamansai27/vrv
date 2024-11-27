@@ -12,7 +12,7 @@ const rateLimit = require('express-rate-limit');
 dotenv.config();
 
 app.use(cors(
-    {origin:"http://sheena-seedss.vercel.app",
+    {origin:"http://vrv-yyiz.vercel.app/",
      method : ["POST","GET"],
      credentials:true
     }
