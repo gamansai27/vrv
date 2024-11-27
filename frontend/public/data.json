@@ -1,0 +1,112 @@
+[
+  {
+    "Variety Code": "VC001",
+    "Plan": {
+      "FY 22-23 QTY": 500,
+      "FY 22-23 Revenue": 25000
+    },
+    "Actuals": {
+      "FY 22-23 QTY": 450,
+      "FY 22-23 Revenue": 22500
+    }
+  },
+  {
+    "Variety Code": "VC002",
+    "Plan": {
+      "FY 22-23 QTY": 750,
+      "FY 22-23 Revenue": 37500
+    },
+    "Actuals": {
+      "FY 22-23 QTY": 800,
+      "FY 22-23 Revenue": 40000
+    }
+  },
+  {
+    "Variety Code": "VC003",
+    "Plan": {
+      "FY 22-23 QTY": 300,
+      "FY 22-23 Revenue": 15000
+    },
+    "Actuals": {
+      "FY 22-23 QTY": 280,
+      "FY 22-23 Revenue": 14000
+    }
+  },
+  {
+    "Variety Code": "VC004",
+    "Plan": {
+      "FY 22-23 QTY": 600,
+      "FY 22-23 Revenue": 30000
+    },
+    "Actuals": {
+      "FY 22-23 QTY": 620,
+      "FY 22-23 Revenue": 31000
+    }
+  },
+  {
+    "Variety Code": "VC005",
+    "Plan": {
+      "FY 22-23 QTY": 400,
+      "FY 22-23 Revenue": 20000
+    },
+    "Actuals": {
+      "FY 22-23 QTY": 390,
+      "FY 22-23 Revenue": 19500
+    }
+  },
+  {
+    "Variety Code": "VC006",
+    "Plan": {
+      "FY 22-23 QTY": 700,
+      "FY 22-23 Revenue": 35000
+    },
+    "Actuals": {
+      "FY 22-23 QTY": 680,
+      "FY 22-23 Revenue": 34000
+    }
+  },
+  {
+    "Variety Code": "VC007",
+    "Plan": {
+      "FY 22-23 QTY": 550,
+      "FY 22-23 Revenue": 27500
+    },
+    "Actuals": {
+      "FY 22-23 QTY": 530,
+      "FY 22-23 Revenue": 26500
+    }
+  },
+  {
+    "Variety Code": "VC008",
+    "Plan": {
+      "FY 22-23 QTY": 450,
+      "FY 22-23 Revenue": 22500
+    },
+    "Actuals": {
+      "FY 22-23 QTY": 460,
+      "FY 22-23 Revenue": 23000
+    }
+  },
+  {
+    "Variety Code": "VC009",
+    "Plan": {
+      "FY 22-23 QTY": 800,
+      "FY 22-23 Revenue": 40000
+    },
+    "Actuals": {
+      "FY 22-23 QTY": 770,
+      "FY 22-23 Revenue": 38500
+    }
+  },
+  {
+    "Variety Code": "VC010",
+    "Plan": {
+      "FY 22-23 QTY": 350,
+      "FY 22-23 Revenue": 17500
+    },
+    "Actuals": {
+      "FY 22-23 QTY": 340,
+      "FY 22-23 Revenue": 17000
+    }
+  }
+]
