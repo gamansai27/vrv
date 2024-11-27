@@ -19,7 +19,7 @@ app.use(cors(
 ));
 app.use(bodyParser.json());
 app.use(cookieParser());
-mongoose.connect("MONGO_URI="mongodb+srv://21bd1a661ecsma:GmU8n7fCcr9y9FiD@cluster0.tez0z.mongodb.net/");
+connectDB();
 connectRedis();
 
 const limiter = rateLimit({
