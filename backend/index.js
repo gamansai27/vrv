@@ -11,7 +11,12 @@ const {connectRedis} = require("./config/redisdatabase");
 const rateLimit = require('express-rate-limit');
 dotenv.config();
 
-app.use(cors({origin:"http://localhost:3000", credentials:true}));
+app.use(cors(
+    {origin:"http://sheena-seedss.vercel.app",
+     method : ["POST","GET"],
+     credentials:true
+    }
+));
 app.use(bodyParser.json());
 app.use(cookieParser());
 connectDB();
